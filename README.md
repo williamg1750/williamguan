@@ -18,9 +18,9 @@ Resume:  [William Guan Resume](https://www.williamguan.com) (PDF download)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/william-guan/)
  
-😄 Pronouns: She/Her/Hers <br>
+😄 Pronouns: He/Him/His <br>
 ⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was in ENT. 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
  
  
