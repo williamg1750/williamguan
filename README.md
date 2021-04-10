@@ -5,10 +5,10 @@
 Resume:  [William Guan Resume](https://www.williamguan.com) (PDF download)
  
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://www.williamguan.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://www.williamguan.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://www.williamguan.com)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.williamguan.com)<br>
  
 🌱 *Currently Learning*: React-Native and Ruby<br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
