@@ -2,7 +2,7 @@
  
 ### Hi there 👋, I'm William Guan. I'm a web developer. Welcome to my gh page! <br>
  
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
+Resume:  [William Guan Resume](https://www.williamguan.com) (PDF download)
  
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
