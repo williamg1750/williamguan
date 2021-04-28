@@ -4,18 +4,16 @@
  
 Resume:  [William Guan Resume](https://docs.google.com/document/d/18TndEdwzbrFlHe2OGICYusUOIX6-ixlc2TisUkqQE1c/view?usp=sharing) (PDF download)
  
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://www.williamguan.com)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://www.williamguan.com)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://www.williamguan.com)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.williamguan.com)<br>
+🔭 *Currently working on*:  Articles that teach aspiring developers  javascript concepts and new-to-them technologies. Here are some examples of what I have been writing on: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://william-guan.medium.com/my-experience-with-pwa-and-electron-which-is-better-which-one-should-i-use-eb86a23a2fde)<br>
+
  
-🌱 *Currently Learning*: React-Native and Ruby<br>
+🌱 *Currently Learning*: React-Native <br>
 🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
 💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email](william.guan12@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://www.twitter.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Twitter](https://twitter.com/William72530202)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/william-guan/)
  
 😄 Pronouns: He/Him/His <br>
