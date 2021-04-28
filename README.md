@@ -2,7 +2,7 @@
  
 ### Hi there 👋, I'm William Guan. I'm a web developer. Welcome to my gh page! <br>
  
-Resume:  [William Guan Resume](https://docs.google.com/document/d/18TndEdwzbrFlHe2OGICYusUOIX6-ixlc2TisUkqQE1c/edit?usp=sharing) (PDF download)
+Resume:  [William Guan Resume](https://docs.google.com/document/d/18TndEdwzbrFlHe2OGICYusUOIX6-ixlc2TisUkqQE1c/export?format=pdf) (PDF download)
  
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://www.williamguan.com)<br>
